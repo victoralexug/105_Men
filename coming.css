@@ -84,9 +84,12 @@ html, body {
     }
 }
 
-@media (max-width:400px) {
+@media (max-width:350px) {
     img{
-        width: 55%;
+        width: 65%;
+    }
+     img {
+        padding-top: 20px;
     }
 }
 
